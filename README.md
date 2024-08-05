@@ -19,4 +19,4 @@ CSS: Used for visual design and layout.
 Responsive Design: Utilized media queries to ensure optimal viewing on various devices.
 
 # Preview:
-![Netflix_clone](./Netflix_Clone.gif)
+![](./Netflix_Clone.gif)
