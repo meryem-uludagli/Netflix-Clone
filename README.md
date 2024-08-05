@@ -18,5 +18,5 @@ CSS: Used for visual design and layout.
 
 Responsive Design: Utilized media queries to ensure optimal viewing on various devices.
 
-#Preview:
+# Preview:
 
