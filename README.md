@@ -1,7 +1,7 @@
-# Netflix-Clone Project 🎞️
+# 🎞️ Netflix-Clone Project 
 In this project, I recreated the interface of the popular video streaming platform Netflix using HTML and CSS. My goal was to create a web page that offers a similar user experience by emulating Netflix's user-friendly and aesthetic design.
 
-# Project Features 🚀
+# 🚀 Project Features 
 
 - Home Page Design: An interface reminiscent of Netflix's homepage, featuring popular movie and TV show recommendations for users to browse.
 
@@ -11,14 +11,14 @@ In this project, I recreated the interface of the popular video streaming platfo
 
 - Clean and Readable Code: Well-documented and clean HTML and CSS to enhance readability and maintainability.
 
-# Technologies Used 💻
+# 💻 Technologies Used 
 HTML: Used to create the structural skeleton.
 
 CSS: Used for visual design and layout.
 
 Responsive Design: Utilized media queries to ensure optimal viewing on various devices.
 
-# Preview:
+# ✔️ Preview:
 
 ![](./Netflix_Clone.gif)
 
